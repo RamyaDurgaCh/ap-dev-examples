@@ -1,0 +1,15 @@
+http:
+  port: "8081"
+sfdc:  
+  username: "ramyadurga@openlogix.ram"
+  password: "![oINGzaL2ZPhTiA8hAzw7Ew==]"
+  securityToken: "![uFQUhDKxFi3T2vKaI7Qv7Fm4cemsUe2A5wm6P7wcces=]"
+  
+file:
+  accountsDir: "C:/Users/Public/MuleSoft docs/APDevFundamentals_studentFiles_SP_04may2023/resources"
+db:
+  host: "mudb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
